@@ -36,7 +36,7 @@ Your website is now up and running! 🚀
 Here is the view of the website pages:  
 
 ### Login Page  
-![Login Page](images/login.png)  
+![Login Page](images/Login.png)  
 
 ### Dashboard  
 ![Dashboard](images/dashboard.png)  
