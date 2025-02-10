@@ -39,7 +39,13 @@ Here is the view of the website pages:
 ![Login Page](images/Login.png)  
 
 ### Dashboard  
-![Dashboard](images/dashboard.png)  
+![Dashboard](images/Dashboard.png)  
 
-### Sales Management Page  
-![Sales Page](images/sales_page.png) 
+### Purchase Page  
+![Purchase Page](images/Enter_Purchase.png)
+
+### Salary Payment  
+![Salary Payment](images/Salary_Payment.png)
+
+### Database  
+![Salary Payment](images/No_SQL_database.png)
