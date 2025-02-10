@@ -6,8 +6,9 @@ This project is designed to manage and store sales records for a specific indust
 
 Follow these steps to set up and run the project:  
 
-1. **Install XAMPP**  
-   - Download and install [XAMPP](https://www.apachefriends.org/index.html).  
+1. **Installation**  
+   - Download and install [XAMPP](https://www.apachefriends.org/index.html).
+   - Extract these folders in xampp/htdocs/Industrial-Sales-Management/
 
 2. **Start the Required Services**  
    - Open the XAMPP Control Panel.  
@@ -35,7 +36,7 @@ Your website is now up and running! 🚀
 Here is the view of the website pages:  
 
 ### Login Page  
-![Login Page](images/login_page.png)  
+![Login Page](images/login.png)  
 
 ### Dashboard  
 ![Dashboard](images/dashboard.png)  
