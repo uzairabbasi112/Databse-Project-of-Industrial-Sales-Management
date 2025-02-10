@@ -1,12 +1,44 @@
-# Databse Project of handling sales of Industy
+# Database Project for Handling Industry Sales  
 
-This Project is designed for handling the rocord of sales of a specific industry in order to manage and store all the data in database and the user will be able to easily extract the data of any client of dealer with all the paid and remaining dues.
+This project is designed to manage and store sales records for a specific industry. It allows users to efficiently track and extract client or dealer data, including paid and remaining dues.  
+
+## Installation and Setup  
+
+Follow these steps to set up and run the project:  
+
+1. **Install XAMPP**  
+   - Download and install [XAMPP](https://www.apachefriends.org/index.html).  
+
+2. **Start the Required Services**  
+   - Open the XAMPP Control Panel.  
+   - Start **Apache Server** and **MySQL**.  
+
+3. **Set Up the Database**  
+   - Open Chrome and go to `http://localhost/`.  
+   - Click on **phpMyAdmin** to open the MySQL database.  
+   - Create a new database named **pharmacy**.  
+   - Navigate to the **Import** tab.  
+   - Select the SQL database file from the `database` folder and import it.  
+
+4. **Run the Website**  
+   - Open Chrome and visit:  
+     ```
+     http://localhost/Industrial-Sales-Management/adminhub-master/index.php
+     ```
+   - The login page will appear. 🎉  
+
+Your website is now up and running! 🚀  
 
 
-In order to run this website, firstly you have to install xampp server and in the xampp control you have to start apache server and mysql. Go to chrome, search for localhost, a dashboard appear, open phpmyadmin, mysql database will open, there you have to create a database of name pharmacy. Then in that database, go to import file and there select the path of sql database file of pharmacy,that is in the database folder.
+## Samples:  
 
-GO to chrome, search for localhost,then remove dashboard from link and 'localhost/enter Website_for_managing_multiple_medical_stores/index.php'
+Here is the view of the website pages:  
 
-BOOM
+### Login Page  
+![Login Page](images/login_page.png)  
 
-Your website will run and Login Page will appear.
+### Dashboard  
+![Dashboard](images/dashboard.png)  
+
+### Sales Management Page  
+![Sales Page](images/sales_page.png) 
